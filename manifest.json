@@ -4,7 +4,7 @@
     "website_url": "",
     "description": "finishing and changing maps from other packs that don't have spawns, or no longer function",
     "dependencies": [
-      "olavim-MapsExtended-1.4.2"
+      "olavim-MapsExtended-1.4.2",
       "BossSloth-ExtraMapObjects-1.1.0"
     ]
   }
