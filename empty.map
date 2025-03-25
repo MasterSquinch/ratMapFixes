@@ -1,0 +1,724 @@
+{
+    "$id": 0,
+    "$type": "0|MapsExt.CustomMap, MapsExtended",
+    "_id": "f98b859b-bc7e-4716-882a-b8eb6753041c",
+    "_name": "empty",
+    "_version": "1.4.2",
+    "_settings": {
+        "$id": 1,
+        "$type": "1|MapsExt.CustomMapSettings, MapsExtended",
+        "_mapSize": {
+            "$type": "2|UnityEngine.Vector2, UnityEngine.CoreModule",
+            1920,
+            1080
+        },
+        "_viewportHeight": 1080
+    },
+    "_mapObjects": {
+        "$id": 2,
+        "$type": "3|MapsExt.MapObjects.MapObjectData[], MapsExtended",
+        "$rlength": 17,
+        "$rcontent": [
+            {
+                "$id": 3,
+                "$type": "4|MapsExt.MapObjects.GroundData, MapsExtended",
+                "_active": true,
+                "_position": {
+                    "$id": 4,
+                    "$type": "5|MapsExt.Properties.PositionProperty, MapsExtended",
+                    "_x": 0,
+                    "_y": -19
+                },
+                "_scale": {
+                    "$id": 5,
+                    "$type": "6|MapsExt.Properties.ScaleProperty, MapsExtended",
+                    "_x": 72,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 6,
+                    "$type": "7|MapsExt.Properties.RotationProperty, MapsExtended",
+                    "_angle": 0
+                },
+                "_keyframes": {
+                    "$id": 7,
+                    "$type": "8|MapsExt.AnimationKeyframe[], MapsExtended",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 8,
+                "$type": 4,
+                "_active": true,
+                "_position": {
+                    "$id": 9,
+                    "$type": 5,
+                    "_x": -22.5,
+                    "_y": -15.5
+                },
+                "_scale": {
+                    "$id": 10,
+                    "$type": 6,
+                    "_x": 3,
+                    "_y": 5
+                },
+                "_rotation": {
+                    "$id": 11,
+                    "$type": 7,
+                    "_angle": 0
+                },
+                "_keyframes": {
+                    "$id": 12,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 13,
+                "$type": 4,
+                "_active": true,
+                "_position": {
+                    "$id": 14,
+                    "$type": 5,
+                    "_x": 22.5,
+                    "_y": -15.5
+                },
+                "_scale": {
+                    "$id": 15,
+                    "$type": 6,
+                    "_x": 3,
+                    "_y": 5
+                },
+                "_rotation": $iref:11,
+                "_keyframes": {
+                    "$id": 16,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 17,
+                "$type": "9|MapsExt.MapObjects.BoxData, MapsExtended",
+                "_active": true,
+                "_position": {
+                    "$id": 18,
+                    "$type": 5,
+                    "_x": 0,
+                    "_y": -17
+                },
+                "_scale": {
+                    "$id": 19,
+                    "$type": 6,
+                    "_x": 6,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 20,
+                    "$type": 7,
+                    "_angle": 0
+                },
+                "_keyframes": {
+                    "$id": 21,
+                    "$type": 8,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 22,
+                            "$type": "10|MapsExt.AnimationKeyframe, MapsExtended",
+                            "_componentValues": {
+                                "$id": 23,
+                                "$type": "11|System.Collections.Generic.List`1[[MapsExt.Properties.ILinearProperty, MapsExtended]], mscorlib",
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 24,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -17
+                                    },
+                                    {
+                                        "$id": 25,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:20
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 26,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 27,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 28,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -17
+                                    },
+                                    {
+                                        "$id": 29,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:20
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 30,
+                "$type": 9,
+                "_active": true,
+                "_position": {
+                    "$id": 31,
+                    "$type": 5,
+                    "_x": 0,
+                    "_y": -8.5
+                },
+                "_scale": {
+                    "$id": 32,
+                    "$type": 6,
+                    "_x": 6,
+                    "_y": 11
+                },
+                "_rotation": $iref:20,
+                "_keyframes": {
+                    "$id": 33,
+                    "$type": 8,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 34,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 35,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 36,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -8.5
+                                    },
+                                    {
+                                        "$id": 37,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 11
+                                    },
+                                    $iref:20
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 38,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 39,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 40,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -8.5
+                                    },
+                                    {
+                                        "$id": 41,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 11
+                                    },
+                                    $iref:20
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 42,
+                "$type": "12|MapsExt.MapObjects.BoxBackgroundData, MapsExtended",
+                "_active": true,
+                "_position": {
+                    "$id": 43,
+                    "$type": 5,
+                    "_x": 0,
+                    "_y": -15
+                },
+                "_scale": {
+                    "$id": 44,
+                    "$type": 6,
+                    "_x": 6,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 45,
+                    "$type": 7,
+                    "_angle": 0
+                },
+                "_keyframes": {
+                    "$id": 46,
+                    "$type": 8,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 47,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 48,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 49,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -15
+                                    },
+                                    {
+                                        "$id": 50,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 51,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 52,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 53,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -15
+                                    },
+                                    {
+                                        "$id": 54,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 55,
+                "$type": 12,
+                "_active": true,
+                "_position": {
+                    "$id": 56,
+                    "$type": 5,
+                    "_x": 0,
+                    "_y": -15
+                },
+                "_scale": {
+                    "$id": 57,
+                    "$type": 6,
+                    "_x": 6,
+                    "_y": 2
+                },
+                "_rotation": $iref:45,
+                "_keyframes": {
+                    "$id": 58,
+                    "$type": 8,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 59,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 60,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 61,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -15
+                                    },
+                                    {
+                                        "$id": 62,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 63,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 64,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    $iref:53,
+                                    $iref:54,
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 65,
+                "$type": 12,
+                "_active": true,
+                "_position": {
+                    "$id": 66,
+                    "$type": 5,
+                    "_x": 0,
+                    "_y": -15
+                },
+                "_scale": {
+                    "$id": 67,
+                    "$type": 6,
+                    "_x": 6,
+                    "_y": 2
+                },
+                "_rotation": $iref:45,
+                "_keyframes": {
+                    "$id": 68,
+                    "$type": 8,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 69,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 70,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 71,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -15
+                                    },
+                                    {
+                                        "$id": 72,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 73,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 74,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    $iref:53,
+                                    $iref:54,
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 75,
+                "$type": 12,
+                "_active": true,
+                "_position": {
+                    "$id": 76,
+                    "$type": 5,
+                    "_x": 0,
+                    "_y": -15
+                },
+                "_scale": {
+                    "$id": 77,
+                    "$type": 6,
+                    "_x": 6,
+                    "_y": 2
+                },
+                "_rotation": $iref:45,
+                "_keyframes": {
+                    "$id": 78,
+                    "$type": 8,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 79,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 80,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 81,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -15
+                                    },
+                                    {
+                                        "$id": 82,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 83,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 84,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    $iref:53,
+                                    $iref:54,
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 85,
+                "$type": 12,
+                "_active": true,
+                "_position": {
+                    "$id": 86,
+                    "$type": 5,
+                    "_x": 0,
+                    "_y": -15
+                },
+                "_scale": {
+                    "$id": 87,
+                    "$type": 6,
+                    "_x": 6,
+                    "_y": 2
+                },
+                "_rotation": $iref:45,
+                "_keyframes": {
+                    "$id": 88,
+                    "$type": 8,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        {
+                            "$id": 89,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 90,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 91,
+                                        "$type": 5,
+                                        "_x": 0,
+                                        "_y": -15
+                                    },
+                                    {
+                                        "$id": 92,
+                                        "$type": 6,
+                                        "_x": 6,
+                                        "_y": 2
+                                    },
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 93,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 94,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    $iref:53,
+                                    $iref:54,
+                                    $iref:45
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 95,
+                "$type": 4,
+                "_active": true,
+                "_position": {
+                    "$id": 96,
+                    "$type": 5,
+                    "_x": -34.5,
+                    "_y": -15.5
+                },
+                "_scale": {
+                    "$id": 97,
+                    "$type": 6,
+                    "_x": 3,
+                    "_y": 5
+                },
+                "_rotation": $iref:11,
+                "_keyframes": {
+                    "$id": 98,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 99,
+                "$type": 4,
+                "_active": true,
+                "_position": {
+                    "$id": 100,
+                    "$type": 5,
+                    "_x": 35.5,
+                    "_y": -15.5
+                },
+                "_scale": {
+                    "$id": 101,
+                    "$type": 6,
+                    "_x": 3,
+                    "_y": 5
+                },
+                "_rotation": $iref:11,
+                "_keyframes": {
+                    "$id": 102,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 103,
+                "$type": "13|MapsExt.MapObjects.SpawnData, MapsExtended",
+                "_active": true,
+                "_spawnId": 0,
+                "_spawnTeamId": 0,
+                "_position": {
+                    "$type": 2,
+                    -28.75,
+                    -16.5
+                }
+            },
+            {
+                "$id": 104,
+                "$type": 13,
+                "_active": true,
+                "_spawnId": 1,
+                "_spawnTeamId": 1,
+                "_position": {
+                    "$type": 2,
+                    29,
+                    -16.5
+                }
+            },
+            {
+                "$id": 105,
+                "$type": 13,
+                "_active": true,
+                "_spawnId": 2,
+                "_spawnTeamId": 2,
+                "_position": {
+                    "$type": 2,
+                    -4.5,
+                    -16.5
+                }
+            },
+            {
+                "$id": 106,
+                "$type": 13,
+                "_active": true,
+                "_spawnId": 3,
+                "_spawnTeamId": 3,
+                "_position": {
+                    "$type": 2,
+                    4.5,
+                    -16.5
+                }
+            },
+            {
+                "$id": 107,
+                "$type": 13,
+                "_active": true,
+                "_spawnId": 4,
+                "_spawnTeamId": 4,
+                "_position": {
+                    "$type": 2,
+                    0,
+                    -1.5
+                }
+            }
+        ]
+    }
+}
