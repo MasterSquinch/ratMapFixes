@@ -1,6 +1,6 @@
 {
     "name": "ratMapFixes",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "",
     "description": "finishing and changing maps from other packs that don't have spawns, or no longer function",
     "dependencies": [
