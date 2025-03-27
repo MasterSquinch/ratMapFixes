@@ -10,10 +10,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Abras Magic Maps - AMM_Hexes (saws not moving through maze)
+- List of included maps w/ link to original mod to README to assist with disabling broken levels and to give credit to original artists.
 
 ### Changed
 
 - Icon art.
+- Package description.
+
+## [1.2.0] - 2025-03-27
+
+### Added
+
+- The Spectra Levels - v4 map1 (no spawns, added bridge and animation consistent with finished level)
+- The Spectra Levels - v4 map5 sågar å sånt (no spawns, adjusted spacing of saws so they dont become stuck, added return chute)
+- The Spectra Levels - v4 map7 zing zing (no spawns, adjusted animation timings to be visible and slightly out of sync, added platforms instead of flat balls)
+- The Spectra Levels - v4 map8 såg trap (adjusted "trap" spacing so saws no longer get stuck [and have a slight chance of falling down activation tunnel])
+- The Spectra Levels - v4 map10 massa låda (no spawns)
+- WackyMapObjects, UnboundLib, MM Hook, and BepInEx to dependencies.
+
+### Changed
+
+- rpm_birdhouse: added weights to bottom of cage for stability.
 
 ## [1.1.0] - 2025-03-26
 
