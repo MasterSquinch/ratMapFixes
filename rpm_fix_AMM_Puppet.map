@@ -2,7 +2,7 @@
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
     "_id": "a685363e-d01d-4eb5-b4c1-1f7a2984835d",
-    "_name": "puppet",
+    "_name": "rpm_fix_AMM_Puppet",
     "_version": "1.4.2",
     "_settings": {
         "$id": 1,

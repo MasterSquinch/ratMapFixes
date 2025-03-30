@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "_id": "ae08933e-9552-4c66-9bc2-6b2820d2a8a3",
+    "_id": "1e25c377-c7bc-46ec-ae7d-fd307fde058e",
     "_name": "rpm_fix_Crusher",
     "_version": "1.4.2",
     "_settings": {
@@ -17,7 +17,7 @@
     "_mapObjects": {
         "$id": 2,
         "$type": "3|MapsExt.MapObjects.MapObjectData[], MapsExtended",
-        "$rlength": 50,
+        "$rlength": 54,
         "$rcontent": [
             {
                 "$id": 3,
@@ -130,7 +130,7 @@
                 "_pos1": {
                     "$type": 2,
                     -77.8615952,
-                    0.08660036
+                    0.08660048
                 },
                 "_pos2": {
                     "$type": 2,
@@ -187,7 +187,7 @@
                 "_pos2": {
                     "$type": 2,
                     -46.6383438,
-                    -5.11790848
+                    -5.11790752
                 }
             },
             {
@@ -202,7 +202,7 @@
                 "_pos2": {
                     "$type": 2,
                     -46.6383438,
-                    -5.11790848
+                    -5.11790752
                 }
             },
             {
@@ -217,7 +217,7 @@
                 "_pos2": {
                     "$type": 2,
                     -46.6383438,
-                    -5.11790848
+                    -5.11790752
                 }
             },
             {
@@ -1142,6 +1142,54 @@
                     "$id": 178,
                     "$type": 8,
                     "_angle": 330
+                }
+            },
+            {
+                "$id": 179,
+                "$type": 11,
+                "_active": true,
+                "_spawnId": 4,
+                "_spawnTeamId": 4,
+                "_position": {
+                    "$type": 2,
+                    18.5,
+                    -5
+                }
+            },
+            {
+                "$id": 180,
+                "$type": 11,
+                "_active": true,
+                "_spawnId": 5,
+                "_spawnTeamId": 5,
+                "_position": {
+                    "$type": 2,
+                    -16.5,
+                    -5.25
+                }
+            },
+            {
+                "$id": 181,
+                "$type": 11,
+                "_active": true,
+                "_spawnId": 6,
+                "_spawnTeamId": 6,
+                "_position": {
+                    "$type": 2,
+                    31.25,
+                    -5
+                }
+            },
+            {
+                "$id": 182,
+                "$type": 11,
+                "_active": true,
+                "_spawnId": 7,
+                "_spawnTeamId": 7,
+                "_position": {
+                    "$type": 2,
+                    -31.25,
+                    -5.5
                 }
             }
         ]

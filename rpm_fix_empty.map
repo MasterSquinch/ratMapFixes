@@ -1,8 +1,8 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "_id": "2a357977-deca-4c71-8011-d813dd997776",
-    "_name": "empty",
+    "_id": "65d07d35-ea26-4acf-98b4-91a823bf561d",
+    "_name": "rpm_fix_empty",
     "_version": "1.4.2",
     "_settings": {
         "$id": 1,
@@ -17,7 +17,7 @@
     "_mapObjects": {
         "$id": 2,
         "$type": "3|MapsExt.MapObjects.MapObjectData[], MapsExtended",
-        "$rlength": 17,
+        "$rlength": 20,
         "$rcontent": [
             {
                 "$id": 3,
@@ -715,8 +715,44 @@
                 "_spawnTeamId": 4,
                 "_position": {
                     "$type": 2,
-                    0,
-                    -1.5
+                    -22.5,
+                    -11.75
+                }
+            },
+            {
+                "$id": 108,
+                "$type": 13,
+                "_active": true,
+                "_spawnId": 5,
+                "_spawnTeamId": 5,
+                "_position": {
+                    "$type": 2,
+                    22.5,
+                    -11.75
+                }
+            },
+            {
+                "$id": 109,
+                "$type": 13,
+                "_active": true,
+                "_spawnId": 6,
+                "_spawnTeamId": 6,
+                "_position": {
+                    "$type": 2,
+                    18.5,
+                    -16.75
+                }
+            },
+            {
+                "$id": 110,
+                "$type": 13,
+                "_active": true,
+                "_spawnId": 7,
+                "_spawnTeamId": 7,
+                "_position": {
+                    "$type": 2,
+                    -18,
+                    -16.5
                 }
             }
         ]

@@ -1,8 +1,8 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "_id": "76d0b771-f5e1-47da-b134-17d8779b7884",
-    "_name": "TheBridge",
+    "_id": "024b7771-4c56-4bde-a0b9-5febc164e506",
+    "_name": "rpm_fix_AMM_thinBridge",
     "_version": "1.4.2",
     "_settings": {
         "$id": 1,
@@ -17,7 +17,7 @@
     "_mapObjects": {
         "$id": 2,
         "$type": "3|MapsExt.MapObjects.MapObjectData[], MapsExtended",
-        "$rlength": 94,
+        "$rlength": 96,
         "$rcontent": [
             {
                 "$id": 3,
@@ -2147,7 +2147,7 @@
                 "_spawnTeamId": 1,
                 "_position": {
                     "$type": 2,
-                    10.75,
+                    17.5,
                     0.5
                 }
             },
@@ -2159,8 +2159,8 @@
                 "_spawnTeamId": 2,
                 "_position": {
                     "$type": 2,
-                    -6.75,
-                    1
+                    -12.25,
+                    0.25
                 }
             },
             {
@@ -2196,6 +2196,30 @@
                 "_position": {
                     "$type": 2,
                     -12.5,
+                    -16
+                }
+            },
+            {
+                "$id": 324,
+                "$type": 17,
+                "_active": true,
+                "_spawnId": 6,
+                "_spawnTeamId": 6,
+                "_position": {
+                    "$type": 2,
+                    0.25,
+                    0.75
+                }
+            },
+            {
+                "$id": 325,
+                "$type": 17,
+                "_active": true,
+                "_spawnId": 7,
+                "_spawnTeamId": 7,
+                "_position": {
+                    "$type": 2,
+                    -1.25,
                     -16
                 }
             }

@@ -2,7 +2,7 @@
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
     "_id": "966cf73f-5e2a-4abb-976d-9d2952f3c975",
-    "_name": "maze",
+    "_name": "rpm_fix_AMM_Maze",
     "_version": "1.4.2",
     "_settings": {
         "$id": 1,

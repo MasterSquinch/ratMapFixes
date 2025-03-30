@@ -1,8 +1,8 @@
 {
     "name": "ratMapFixes",
-    "version_number": "1.3.0",
+    "version_number": "1.4.0",
     "website_url": "",
-    "description": "finishing and changing maps from other packs that don't have spawns, or no longer function. might even add some new ones. check readme for a list of maps to disable.",
+    "description": "finishing and changing maps from other packs that don't have spawns, or no longer function. might even add some new ones. 8-player support. check readme for a list of maps to disable.",
     "dependencies": [
       "BepInEx-BepInExPack_ROUNDS-5.4.1901",
       "willis81808-UnboundLib-3.2.13",

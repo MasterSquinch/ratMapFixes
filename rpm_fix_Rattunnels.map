@@ -1,8 +1,8 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "_id": "51e32204-f05d-4d01-a3e7-df7465a5f43b",
-    "_name": "rattunnels",
+    "_id": "895d8a90-5cd4-4cb7-992e-aab316d40eff",
+    "_name": "rpm_fix_Rattunnels",
     "_version": "1.4.2",
     "_settings": {
         "$id": 1,
@@ -17,7 +17,7 @@
     "_mapObjects": {
         "$id": 2,
         "$type": "3|MapsExt.MapObjects.MapObjectData[], MapsExtended",
-        "$rlength": 77,
+        "$rlength": 81,
         "$rcontent": [
             {
                 "$id": 3,
@@ -1479,7 +1479,7 @@
                 "_pos1": {
                     "$type": 2,
                     -5.25,
-                    -2.75000048
+                    -2.750001
                 },
                 "_pos2": {
                     "$type": 2,
@@ -2181,8 +2181,56 @@
                 "_spawnTeamId": 3,
                 "_position": {
                     "$type": 2,
-                    20.75,
-                    -11.5
+                    23,
+                    -14.75
+                }
+            },
+            {
+                "$id": 368,
+                "$type": 16,
+                "_active": true,
+                "_spawnId": 4,
+                "_spawnTeamId": 4,
+                "_position": {
+                    "$type": 2,
+                    5,
+                    -15.5
+                }
+            },
+            {
+                "$id": 369,
+                "$type": 16,
+                "_active": true,
+                "_spawnId": 5,
+                "_spawnTeamId": 5,
+                "_position": {
+                    "$type": 2,
+                    16.5,
+                    7.25
+                }
+            },
+            {
+                "$id": 370,
+                "$type": 16,
+                "_active": true,
+                "_spawnId": 6,
+                "_spawnTeamId": 6,
+                "_position": {
+                    "$type": 2,
+                    -18.25,
+                    4.75
+                }
+            },
+            {
+                "$id": 371,
+                "$type": 16,
+                "_active": true,
+                "_spawnId": 7,
+                "_spawnTeamId": 7,
+                "_position": {
+                    "$type": 2,
+                    -2.5,
+                    13.5
                 }
             }
         ]

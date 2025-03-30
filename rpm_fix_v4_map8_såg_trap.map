@@ -1,8 +1,8 @@
 {
     "$id": 0,
     "$type": "0|MapsExt.CustomMap, MapsExtended",
-    "_id": "317be358-eae1-474e-8203-c89b7a687b9d",
-    "_name": "rpm_fix_v4_map8_sag_trap",
+    "_id": "daa24f92-9437-49c4-afc3-48a326110992",
+    "_name": "rpm_fix_v4_map8_s\u00e5g_trap",
     "_version": "1.4.2",
     "_settings": {
         "$id": 1,
@@ -12,12 +12,12 @@
             1920,
             1080
         },
-        "_viewportHeight": 1080
+        "_viewportHeight": 977
     },
     "_mapObjects": {
         "$id": 2,
         "$type": "3|MapsExt.MapObjects.MapObjectData[], MapsExtended",
-        "$rlength": 36,
+        "$rlength": 38,
         "$rcontent": [
             {
                 "$id": 3,
@@ -996,8 +996,8 @@
                 "_spawnTeamId": 2,
                 "_position": {
                     "$type": 2,
-                    -8,
-                    -9.25
+                    -8.25,
+                    -9
                 }
             },
             {
@@ -1008,8 +1008,8 @@
                 "_spawnTeamId": 3,
                 "_position": {
                     "$type": 2,
-                    14.5,
-                    13
+                    10.25,
+                    9.25
                 }
             },
             {
@@ -1020,8 +1020,8 @@
                 "_spawnTeamId": 4,
                 "_position": {
                     "$type": 2,
-                    17,
-                    -7
+                    24.75,
+                    0.25
                 }
             },
             {
@@ -1034,6 +1034,30 @@
                     "$type": 2,
                     -19.5,
                     17.5
+                }
+            },
+            {
+                "$id": 162,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 6,
+                "_spawnTeamId": 6,
+                "_position": {
+                    "$type": 2,
+                    -2.25,
+                    2.25
+                }
+            },
+            {
+                "$id": 163,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 7,
+                "_spawnTeamId": 7,
+                "_position": {
+                    "$type": 2,
+                    3.25,
+                    -13
                 }
             }
         ]

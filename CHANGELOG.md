@@ -7,9 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4.0] - 2025-03-30
+
 ### Added
 
-- Abras Magic Maps - AMM_Hexes (saws not moving through maze)
+- Abras Magic Maps - AMM_Hexes (adjusted spawns, adjusted viewport, added more saws, hanging saws now move through maze non-deterministically [they may get stuck for a while]; static saws now animated)
+- Bopl Battle Maps - DiagSpam (no spawns)
+- Bopl Battle Maps - Ice10 (no spawns)
+- mapsforbigmen - indatortjong (no spawns, saws piling up before reaching stage)
+
+### Fixed
+
+- Some maps displaying the wrong name in-game.
+
+### Changed
+
+- Description to indicate 8 player support.
+- rpm_birdhouse: adjusted rope placement, spawn placeement; added spawns to support 8 players
+- rpm_fix_AMM_thinBridge: added spawns to support 8 players
+- rpm_fix_Crusher: added spawns to support 8 players
+- rpm_fix_empty: added spawns to support 8 players
+- rpm_fix_Rattunnels: added spawns to support 8 players
+- rpm_fix_v4_map8_såg trap: added spawns to support 8 players; adjusted viewport
 
 ## [1.3.0] - 2025-03-29
 
@@ -17,7 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - CoolDromianMaps - loveisintheair (no spawns)
 - CoolDromianMaps - temple (no spawns)
-- KingCookedBread_Map_Pack - Crusher (machine getting stuck on impact, moving slowly, failing to start)
+- KingCookedBread Map Pack - Crusher (machine getting stuck on impact, moving slowly, failing to start)
 - List of included maps w/ link to original mod to README to assist with disabling broken levels and to give credit to original artists.
 
 ### Changed
