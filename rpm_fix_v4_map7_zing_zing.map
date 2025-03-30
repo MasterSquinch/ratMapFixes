@@ -1,0 +1,1337 @@
+{
+    "$id": 0,
+    "$type": "0|MapsExt.CustomMap, MapsExtended",
+    "_id": "8b37d83c-655d-4ad2-8a1e-3238b9357342",
+    "_name": "rpm_fix_v4_map7_zing_zing",
+    "_version": "1.4.2",
+    "_settings": {
+        "$id": 1,
+        "$type": "1|MapsExt.CustomMapSettings, MapsExtended",
+        "_mapSize": {
+            "$type": "2|UnityEngine.Vector2, UnityEngine.CoreModule",
+            1920,
+            1080
+        },
+        "_viewportHeight": 1080
+    },
+    "_mapObjects": {
+        "$id": 2,
+        "$type": "3|MapsExt.MapObjects.MapObjectData[], MapsExtended",
+        "$rlength": 19,
+        "$rcontent": [
+            {
+                "$id": 3,
+                "$type": "4|MapsExt.MapObjects.GroundData, MapsExtended",
+                "_active": true,
+                "_position": {
+                    "$id": 4,
+                    "$type": "5|MapsExt.Properties.PositionProperty, MapsExtended",
+                    "_x": 1,
+                    "_y": -14.375
+                },
+                "_scale": {
+                    "$id": 5,
+                    "$type": "6|MapsExt.Properties.ScaleProperty, MapsExtended",
+                    "_x": 73,
+                    "_y": 11.75
+                },
+                "_rotation": {
+                    "$id": 6,
+                    "$type": "7|MapsExt.Properties.RotationProperty, MapsExtended",
+                    "_angle": 0
+                },
+                "_keyframes": {
+                    "$id": 7,
+                    "$type": "8|MapsExt.AnimationKeyframe[], MapsExtended",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 8,
+                "$type": "9|MapsExt.MapObjects.GroundCircleData, MapsExtended",
+                "_active": true,
+                "_position": {
+                    "$id": 9,
+                    "$type": 5,
+                    "_x": 23.8899,
+                    "_y": -9.878494
+                },
+                "_scale": {
+                    "$id": 10,
+                    "$type": 6,
+                    "_x": 0.5,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 11,
+                    "$type": 7,
+                    "_angle": 30
+                },
+                "_keyframes": {
+                    "$id": 12,
+                    "$type": 8,
+                    "$rlength": 5,
+                    "$rcontent": [
+                        {
+                            "$id": 13,
+                            "$type": "10|MapsExt.AnimationKeyframe, MapsExtended",
+                            "_componentValues": {
+                                "$id": 14,
+                                "$type": "11|System.Collections.Generic.List`1[[MapsExt.Properties.ILinearProperty, MapsExtended]], mscorlib",
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 15,
+                                        "$type": 5,
+                                        "_x": 23.8899,
+                                        "_y": -9.878494
+                                    },
+                                    {
+                                        "$id": 16,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:11
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 17,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 18,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 19,
+                                        "$type": 5,
+                                        "_x": 23.8899,
+                                        "_y": -9.878494
+                                    },
+                                    {
+                                        "$id": 20,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:11
+                                ]
+                            },
+                            "_duration": 3,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 21,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 22,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 23,
+                                        "$type": 5,
+                                        "_x": 15.6399,
+                                        "_y": 4.410926
+                                    },
+                                    {
+                                        "$id": 24,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 35
+                                    },
+                                    $iref:11
+                                ]
+                            },
+                            "_duration": 0.07,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 25,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 26,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 27,
+                                        "$type": 5,
+                                        "_x": 15.6399,
+                                        "_y": 4.410926
+                                    },
+                                    {
+                                        "$id": 28,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 35
+                                    },
+                                    $iref:11
+                                ]
+                            },
+                            "_duration": 8,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 29,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 30,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 31,
+                                        "$type": 5,
+                                        "_x": 23.8899,
+                                        "_y": -9.878492
+                                    },
+                                    {
+                                        "$id": 32,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:11
+                                ]
+                            },
+                            "_duration": 0.5,
+                            "_curveType": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 33,
+                "$type": 9,
+                "_active": true,
+                "_position": {
+                    "$id": 34,
+                    "$type": 5,
+                    "_x": 12.0648,
+                    "_y": -10.9973
+                },
+                "_scale": {
+                    "$id": 35,
+                    "$type": 6,
+                    "_x": 0.5,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 36,
+                    "$type": 7,
+                    "_angle": 345
+                },
+                "_keyframes": {
+                    "$id": 37,
+                    "$type": 8,
+                    "$rlength": 5,
+                    "$rcontent": [
+                        {
+                            "$id": 38,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 39,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 40,
+                                        "$type": 5,
+                                        "_x": 12.0648,
+                                        "_y": -10.9973
+                                    },
+                                    {
+                                        "$id": 41,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:36
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 42,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 43,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 44,
+                                        "$type": 5,
+                                        "_x": 12.0648,
+                                        "_y": -10.9973
+                                    },
+                                    {
+                                        "$id": 45,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:36
+                                ]
+                            },
+                            "_duration": 3,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 46,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 47,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 48,
+                                        "$type": 5,
+                                        "_x": 14.5882912,
+                                        "_y": -1.57951951
+                                    },
+                                    {
+                                        "$id": 49,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 21.5
+                                    },
+                                    $iref:36
+                                ]
+                            },
+                            "_duration": 0.09,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 50,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 51,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 52,
+                                        "$type": 5,
+                                        "_x": 14.5882912,
+                                        "_y": -1.57951951
+                                    },
+                                    {
+                                        "$id": 53,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 21.5
+                                    },
+                                    $iref:36
+                                ]
+                            },
+                            "_duration": 8,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 54,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 55,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 56,
+                                        "$type": 5,
+                                        "_x": 12.1618586,
+                                        "_y": -10.6350756
+                                    },
+                                    {
+                                        "$id": 57,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2.75
+                                    },
+                                    $iref:36
+                                ]
+                            },
+                            "_duration": 0.5,
+                            "_curveType": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 58,
+                "$type": 9,
+                "_active": true,
+                "_position": {
+                    "$id": 59,
+                    "$type": 5,
+                    "_x": -19.8941,
+                    "_y": -10.0425
+                },
+                "_scale": {
+                    "$id": 60,
+                    "$type": 6,
+                    "_x": 0.5,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 61,
+                    "$type": 7,
+                    "_angle": 300
+                },
+                "_keyframes": {
+                    "$id": 62,
+                    "$type": 8,
+                    "$rlength": 5,
+                    "$rcontent": [
+                        {
+                            "$id": 63,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 64,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 65,
+                                        "$type": 5,
+                                        "_x": -19.8941,
+                                        "_y": -10.0425
+                                    },
+                                    {
+                                        "$id": 66,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:61
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 67,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 68,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 69,
+                                        "$type": 5,
+                                        "_x": -19.8941,
+                                        "_y": -10.0425
+                                    },
+                                    {
+                                        "$id": 70,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:61
+                                ]
+                            },
+                            "_duration": 3,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 71,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 72,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 73,
+                                        "$type": 5,
+                                        "_x": -3.98088527,
+                                        "_y": -0.854999542
+                                    },
+                                    {
+                                        "$id": 74,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 38.75
+                                    },
+                                    $iref:61
+                                ]
+                            },
+                            "_duration": 0.08,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 75,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 76,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 77,
+                                        "$type": 5,
+                                        "_x": -3.98088527,
+                                        "_y": -0.854999542
+                                    },
+                                    {
+                                        "$id": 78,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 38.75
+                                    },
+                                    $iref:61
+                                ]
+                            },
+                            "_duration": 8,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 79,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 80,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 81,
+                                        "$type": 5,
+                                        "_x": -20.3271217,
+                                        "_y": -10.2925
+                                    },
+                                    {
+                                        "$id": 82,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 1
+                                    },
+                                    $iref:61
+                                ]
+                            },
+                            "_duration": 0.5,
+                            "_curveType": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 83,
+                "$type": 9,
+                "_active": true,
+                "_position": {
+                    "$id": 84,
+                    "$type": 5,
+                    "_x": -0.3396,
+                    "_y": -12.2555
+                },
+                "_scale": {
+                    "$id": 85,
+                    "$type": 6,
+                    "_x": 0.5,
+                    "_y": 1.75
+                },
+                "_rotation": {
+                    "$id": 86,
+                    "$type": 7,
+                    "_angle": 15
+                },
+                "_keyframes": {
+                    "$id": 87,
+                    "$type": 8,
+                    "$rlength": 5,
+                    "$rcontent": [
+                        {
+                            "$id": 88,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 89,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 90,
+                                        "$type": 5,
+                                        "_x": -0.3396,
+                                        "_y": -12.2555
+                                    },
+                                    {
+                                        "$id": 91,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 1.75
+                                    },
+                                    $iref:86
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 92,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 93,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 94,
+                                        "$type": 5,
+                                        "_x": -0.3396,
+                                        "_y": -12.2555
+                                    },
+                                    {
+                                        "$id": 95,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 1.75
+                                    },
+                                    $iref:86
+                                ]
+                            },
+                            "_duration": 3,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 96,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 97,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 98,
+                                        "$type": 5,
+                                        "_x": -5.67774439,
+                                        "_y": 7.666725
+                                    },
+                                    {
+                                        "$id": 99,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 43
+                                    },
+                                    $iref:86
+                                ]
+                            },
+                            "_duration": 0.1,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 100,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 101,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 102,
+                                        "$type": 5,
+                                        "_x": -5.67774439,
+                                        "_y": 7.666725
+                                    },
+                                    {
+                                        "$id": 103,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 43
+                                    },
+                                    $iref:86
+                                ]
+                            },
+                            "_duration": 8,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 104,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 105,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 106,
+                                        "$type": 5,
+                                        "_x": -0.274894953,
+                                        "_y": -12.4969807
+                                    },
+                                    {
+                                        "$id": 107,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 1.25
+                                    },
+                                    $iref:86
+                                ]
+                            },
+                            "_duration": 0.5,
+                            "_curveType": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 108,
+                "$type": 9,
+                "_active": true,
+                "_position": {
+                    "$id": 109,
+                    "$type": 5,
+                    "_x": -15.026,
+                    "_y": -10.7834
+                },
+                "_scale": {
+                    "$id": 110,
+                    "$type": 6,
+                    "_x": 0.5,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 111,
+                    "$type": 7,
+                    "_angle": 45
+                },
+                "_keyframes": {
+                    "$id": 112,
+                    "$type": 8,
+                    "$rlength": 5,
+                    "$rcontent": [
+                        {
+                            "$id": 113,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 114,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 115,
+                                        "$type": 5,
+                                        "_x": -15.026,
+                                        "_y": -10.7834
+                                    },
+                                    {
+                                        "$id": 116,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:111
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 117,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 118,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 119,
+                                        "$type": 5,
+                                        "_x": -15.026,
+                                        "_y": -10.7834
+                                    },
+                                    {
+                                        "$id": 120,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:111
+                                ]
+                            },
+                            "_duration": 3,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 121,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 122,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 123,
+                                        "$type": 5,
+                                        "_x": -24.1300087,
+                                        "_y": -1.679393
+                                    },
+                                    {
+                                        "$id": 124,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 27.75
+                                    },
+                                    $iref:111
+                                ]
+                            },
+                            "_duration": 0.1,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 125,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 126,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 127,
+                                        "$type": 5,
+                                        "_x": -24.1300087,
+                                        "_y": -1.679393
+                                    },
+                                    {
+                                        "$id": 128,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 27.75
+                                    },
+                                    $iref:111
+                                ]
+                            },
+                            "_duration": 8,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 129,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 130,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 131,
+                                        "$type": 5,
+                                        "_x": -14.6724463,
+                                        "_y": -11.1369486
+                                    },
+                                    {
+                                        "$id": 132,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 1
+                                    },
+                                    $iref:111
+                                ]
+                            },
+                            "_duration": 0.5,
+                            "_curveType": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 133,
+                "$type": 9,
+                "_active": true,
+                "_position": {
+                    "$id": 134,
+                    "$type": 5,
+                    "_x": -44.8821,
+                    "_y": 0.3972
+                },
+                "_scale": {
+                    "$id": 135,
+                    "$type": 6,
+                    "_x": 0.5,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 136,
+                    "$type": 7,
+                    "_angle": 285
+                },
+                "_keyframes": {
+                    "$id": 137,
+                    "$type": 8,
+                    "$rlength": 5,
+                    "$rcontent": [
+                        {
+                            "$id": 138,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 139,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 140,
+                                        "$type": 5,
+                                        "_x": -44.8821,
+                                        "_y": 0.3972
+                                    },
+                                    {
+                                        "$id": 141,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:136
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 142,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 143,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 144,
+                                        "$type": 5,
+                                        "_x": -44.8821,
+                                        "_y": 0.3972
+                                    },
+                                    {
+                                        "$id": 145,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:136
+                                ]
+                            },
+                            "_duration": 3,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 146,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 147,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 148,
+                                        "$type": 5,
+                                        "_x": -19.52656,
+                                        "_y": 7.191205
+                                    },
+                                    {
+                                        "$id": 149,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 54.5
+                                    },
+                                    $iref:136
+                                ]
+                            },
+                            "_duration": 0.121,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 150,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 151,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 152,
+                                        "$type": 5,
+                                        "_x": -19.52656,
+                                        "_y": 7.191205
+                                    },
+                                    {
+                                        "$id": 153,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 54.5
+                                    },
+                                    $iref:136
+                                ]
+                            },
+                            "_duration": 8,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 154,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 155,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 156,
+                                        "$type": 5,
+                                        "_x": -44.03693,
+                                        "_y": 0.62367034
+                                    },
+                                    {
+                                        "$id": 157,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 3.75
+                                    },
+                                    $iref:136
+                                ]
+                            },
+                            "_duration": 0.5,
+                            "_curveType": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 158,
+                "$type": 9,
+                "_active": true,
+                "_position": {
+                    "$id": 159,
+                    "$type": 5,
+                    "_x": 36.9098,
+                    "_y": -13.1449
+                },
+                "_scale": {
+                    "$id": 160,
+                    "$type": 6,
+                    "_x": 0.5,
+                    "_y": 2
+                },
+                "_rotation": {
+                    "$id": 161,
+                    "$type": 7,
+                    "_angle": 15
+                },
+                "_keyframes": {
+                    "$id": 162,
+                    "$type": 8,
+                    "$rlength": 5,
+                    "$rcontent": [
+                        {
+                            "$id": 163,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 164,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 165,
+                                        "$type": 5,
+                                        "_x": 36.9098,
+                                        "_y": -13.1449
+                                    },
+                                    {
+                                        "$id": 166,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:161
+                                ]
+                            },
+                            "_duration": 1,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 167,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 168,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 169,
+                                        "$type": 5,
+                                        "_x": 36.9098,
+                                        "_y": -13.1449
+                                    },
+                                    {
+                                        "$id": 170,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 2
+                                    },
+                                    $iref:161
+                                ]
+                            },
+                            "_duration": 3,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 171,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 172,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 173,
+                                        "$type": 5,
+                                        "_x": 32.0245819,
+                                        "_y": 5.0869503
+                                    },
+                                    {
+                                        "$id": 174,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 39.75
+                                    },
+                                    $iref:161
+                                ]
+                            },
+                            "_duration": 0.1,
+                            "_curveType": 3
+                        },
+                        {
+                            "$id": 175,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 176,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 177,
+                                        "$type": 5,
+                                        "_x": 32.0245819,
+                                        "_y": 5.0869503
+                                    },
+                                    {
+                                        "$id": 178,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 39.75
+                                    },
+                                    $iref:161
+                                ]
+                            },
+                            "_duration": 8,
+                            "_curveType": 0
+                        },
+                        {
+                            "$id": 179,
+                            "$type": 10,
+                            "_componentValues": {
+                                "$id": 180,
+                                "$type": 11,
+                                "$rlength": 3,
+                                "$rcontent": [
+                                    {
+                                        "$id": 181,
+                                        "$type": 5,
+                                        "_x": 36.9421539,
+                                        "_y": -13.2656441
+                                    },
+                                    {
+                                        "$id": 182,
+                                        "$type": 6,
+                                        "_x": 0.5,
+                                        "_y": 1.75
+                                    },
+                                    $iref:161
+                                ]
+                            },
+                            "_duration": 0.5,
+                            "_curveType": 3
+                        }
+                    ]
+                }
+            },
+            {
+                "$id": 183,
+                "$type": "12|MapsExt.MapObjects.SpawnData, MapsExtended",
+                "_active": true,
+                "_spawnId": 0,
+                "_spawnTeamId": 0,
+                "_position": {
+                    "$type": 2,
+                    -21.5,
+                    -7
+                }
+            },
+            {
+                "$id": 184,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 1,
+                "_spawnTeamId": 1,
+                "_position": {
+                    "$type": 2,
+                    -23.5,
+                    0.75
+                }
+            },
+            {
+                "$id": 185,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 2,
+                "_spawnTeamId": 2,
+                "_position": {
+                    "$type": 2,
+                    21.25,
+                    0.75
+                }
+            },
+            {
+                "$id": 186,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 3,
+                "_spawnTeamId": 3,
+                "_position": {
+                    "$type": 2,
+                    0.25,
+                    7
+                }
+            },
+            {
+                "$id": 187,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 4,
+                "_spawnTeamId": 4,
+                "_position": {
+                    "$type": 2,
+                    23.75,
+                    -7
+                }
+            },
+            {
+                "$id": 188,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 5,
+                "_spawnTeamId": 5,
+                "_position": {
+                    "$type": 2,
+                    10.5,
+                    0.75
+                }
+            },
+            {
+                "$id": 189,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 6,
+                "_spawnTeamId": 6,
+                "_position": {
+                    "$type": 2,
+                    -0.25,
+                    -7
+                }
+            },
+            {
+                "$id": 190,
+                "$type": 12,
+                "_active": true,
+                "_spawnId": 7,
+                "_spawnTeamId": 7,
+                "_position": {
+                    "$type": 2,
+                    -12,
+                    0.75
+                }
+            },
+            {
+                "$id": 191,
+                "$type": 4,
+                "_active": true,
+                "_position": {
+                    "$id": 192,
+                    "$type": 5,
+                    "_x": 16.125,
+                    "_y": -1.75
+                },
+                "_scale": {
+                    "$id": 193,
+                    "$type": 6,
+                    "_x": 27.25,
+                    "_y": 2
+                },
+                "_rotation": $iref:6,
+                "_keyframes": {
+                    "$id": 194,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 195,
+                "$type": 4,
+                "_active": true,
+                "_position": {
+                    "$id": 196,
+                    "$type": 5,
+                    "_x": -16.625,
+                    "_y": -1.75
+                },
+                "_scale": {
+                    "$id": 197,
+                    "$type": 6,
+                    "_x": 27.25,
+                    "_y": 2
+                },
+                "_rotation": $iref:6,
+                "_keyframes": {
+                    "$id": 198,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            },
+            {
+                "$id": 199,
+                "$type": 4,
+                "_active": true,
+                "_position": {
+                    "$id": 200,
+                    "$type": 5,
+                    "_x": -0.125,
+                    "_y": 4.5
+                },
+                "_scale": {
+                    "$id": 201,
+                    "$type": 6,
+                    "_x": 27.25,
+                    "_y": 2
+                },
+                "_rotation": $iref:6,
+                "_keyframes": {
+                    "$id": 202,
+                    "$type": 8,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                }
+            }
+        ]
+    }
+}
